@@ -2,7 +2,7 @@
 """
 Created on Tue Aug 22 10:46:31 2017
 
-@author: mojunyu
+@author: rin
 """
 import numpy as np
 import pandas as pd
@@ -12,7 +12,7 @@ from sklearn.svm import SVC
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.mixture import GaussianMixture
 
-def Best_GaussianMixture(, X_all):
+def Best_GaussianMixture(X_all):
     
     aic = []   
     min_aic = float('inf')
