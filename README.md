@@ -1,4 +1,4 @@
 # Pon
-Some Practice
+Some Practise
 
-hi! a beginner! practicing hello world!
+hi! a begginner! practising hello world!
