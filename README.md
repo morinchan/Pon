@@ -1,6 +1,6 @@
 # Pon
-Some Practise
+Some Practice
 
-hi! a begginner!
+hi! a beginner!
 
 code update test! kaggle, [data science london](https://github.com/morinchan/Pon/blob/master/london.py)
